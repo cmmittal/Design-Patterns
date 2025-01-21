@@ -1,0 +1,1 @@
+### This Repo is about the different Design Patterns in Software Engineering and their implementation in the simplest way possible. Useful for a quick refresher before the Interview.
